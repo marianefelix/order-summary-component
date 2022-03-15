@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-This solution was made with the help of [Giovanna Moeller](https://github.com/giovannamoeller) [youtube video](https://www.youtube.com/watch?v=ap_KHxw4Q_E), so I give credit to her.
+This solution was made with the help of [Giovanna Moeller](https://github.com/giovannamoeller) youtube [video](https://www.youtube.com/watch?v=ap_KHxw4Q_E), so I give credit to her.
